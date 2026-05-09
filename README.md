@@ -58,12 +58,12 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 6 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 8 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
-| 06 | [Linked List](./Linked-List/) | 9 |
+| 06 | [Linked List](./Linked-List/) | 8 |
 | 07 | [Trees](./Trees/) | 0 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 1 |
+| 15 | [Math Geometry](./Math-Geometry/) | 0 |
 | 16 | [Other](./Other/) | 3 |
 <!-- TOPICS_END -->
 
@@ -155,6 +155,8 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Linked List, Math | [✔️](./Linked-List/0002-add-two-numbers/) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/0019-remove-nth-node-from-end-of-list/) |
 | 0025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | Linked List, Recursion | [✔️](./Linked-List/0025-reverse-nodes-in-k-group/) |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0026-remove-duplicates-from-sorted-array/) |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0027-remove-element/) |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0048-rotate-image/) |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/0061-rotate-list/) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | Linked List | [✔️](./Linked-List/0083-remove-duplicates-from-sorted-list/) |
@@ -163,14 +165,12 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/0148-sort-list/) |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | Hash Table, Linked List | [✔️](./Arrays-Hashing/0160-intersection-of-two-linked-lists/) |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Linked List, Two Pointers | [✔️](./Linked-List/0234-palindrome-linked-list/) |
-| 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | Linked List | [✔️](./Linked-List/0237-delete-node-in-a-linked-list/) |
 | 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0396-rotate-function/) |
-| 0788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0788-rotated-digits/) |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | String, String Matching | [✔️](./Other/0796-rotate-string/) |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | Array, Matrix | [✔️](./Arrays-Hashing/1886-determine-whether-matrix-can-be-obtained-by-rotation/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/2095-delete-the-middle-node-of-a-linked-list/) |
-| 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | 🟢 Easy | — | [✔️](./Other/3917-count-indices-with-opposite-parity/) |
-| 3918 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | — | [✔️](./Other/3918-sum-of-primes-between-number-and-its-reverse/) |
+| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 Easy | — | [✔️](./Other/3921-score-validator/) |
+| 3922 | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | 🟡 Medium | — | [✔️](./Other/3922-minimum-flips-to-make-binary-string-coherent/) |
 <!-- INDEX_END -->
 
 ---
