@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 0 |
+| 15 | [Math Geometry](./Math-Geometry/) | 1 |
 | 16 | [Other](./Other/) | 5 |
 <!-- TOPICS_END -->
 
@@ -153,10 +153,11 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Linked List, Math | [✔️](./Linked-List/0002-add-two-numbers/) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | String | [✔️](./Other/0008-string-to-integer-atoi/) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/0019-remove-nth-node-from-end-of-list/) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0026-remove-duplicates-from-sorted-array/) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0027-remove-element/) |
-| 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0048-rotate-image/) |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | Math, Recursion | [✔️](./Math-Geometry/0050-powx-n/) |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/0061-rotate-list/) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | Linked List | [✔️](./Linked-List/0083-remove-duplicates-from-sorted-list/) |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | Hash Table, Linked List | [✔️](./Arrays-Hashing/0142-linked-list-cycle-ii/) |
@@ -164,9 +165,9 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | Hash Table, Linked List | [✔️](./Arrays-Hashing/0160-intersection-of-two-linked-lists/) |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Linked List, Two Pointers | [✔️](./Linked-List/0234-palindrome-linked-list/) |
 | 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0396-rotate-function/) |
-| 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | String, String Matching | [✔️](./Other/0796-rotate-string/) |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | Array, Matrix | [✔️](./Arrays-Hashing/1886-determine-whether-matrix-can-be-obtained-by-rotation/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/2095-delete-the-middle-node-of-a-linked-list/) |
+| 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/2553-separate-the-digits-in-an-array/) |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 Easy | — | [✔️](./Other/3921-score-validator/) |
 | 3922 | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | 🟡 Medium | — | [✔️](./Other/3922-minimum-flips-to-make-binary-string-coherent/) |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 Easy | — | [✔️](./Other/3925-concatenate-array-with-reverse/) |
