@@ -165,7 +165,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | Hash Table, Linked List | [✔️](./Arrays-Hashing/0160-intersection-of-two-linked-lists/) |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Linked List, Two Pointers | [✔️](./Linked-List/0234-palindrome-linked-list/) |
 | 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0396-rotate-function/) |
-| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | Array, Matrix | [✔️](./Arrays-Hashing/1886-determine-whether-matrix-can-be-obtained-by-rotation/) |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/1295-find-numbers-with-even-number-of-digits/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/2095-delete-the-middle-node-of-a-linked-list/) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/2553-separate-the-digits-in-an-array/) |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 Easy | — | [✔️](./Other/3921-score-validator/) |
