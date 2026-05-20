@@ -153,8 +153,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | String | [✔️](./Other/0008-string-to-integer-atoi/) |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0026-remove-duplicates-from-sorted-array/) |
-| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0027-remove-element/) |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0039-combination-sum/) |
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0040-combination-sum-ii/) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0046-permutations/) |
@@ -166,7 +164,9 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0216-combination-sum-iii/) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/1295-find-numbers-with-even-number-of-digits/) |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1306-jump-game-iii/) |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2540-minimum-common-value/) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/2553-separate-the-digits-in-an-array/) |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2657-find-the-prefix-common-array-of-two-arrays/) |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2784-check-if-array-is-good/) |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 Easy | — | [✔️](./Other/3921-score-validator/) |
 | 3922 | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | 🟡 Medium | — | [✔️](./Other/3922-minimum-flips-to-make-binary-string-coherent/) |
