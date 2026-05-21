@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 14 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 17 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 1 |
-| 16 | [Other](./Other/) | 5 |
+| 16 | [Other](./Other/) | 2 |
 <!-- TOPICS_END -->
 
 ---
@@ -168,10 +168,10 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/2553-separate-the-digits-in-an-array/) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2657-find-the-prefix-common-array-of-two-arrays/) |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2784-check-if-array-is-good/) |
-| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 Easy | — | [✔️](./Other/3921-score-validator/) |
-| 3922 | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | 🟡 Medium | — | [✔️](./Other/3922-minimum-flips-to-make-binary-string-coherent/) |
-| 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 Easy | — | [✔️](./Other/3925-concatenate-array-with-reverse/) |
-| 3927 | [Minimize Array Sum Using Divisible Replacements](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | 🟡 Medium | — | [✔️](./Other/3927-minimize-array-sum-using-divisible-replacements/) |
+| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 Easy | Array, String | [✔️](./Arrays-Hashing/3921-score-validator/) |
+| 3922 | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | 🟡 Medium | String | [✔️](./Other/3922-minimum-flips-to-make-binary-string-coherent/) |
+| 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/3925-concatenate-array-with-reverse/) |
+| 3927 | [Minimize Array Sum Using Divisible Replacements](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/3927-minimize-array-sum-using-divisible-replacements/) |
 <!-- INDEX_END -->
 
 ---
