@@ -2,61 +2,47 @@ class Solution {
 public:
     int search(vector<int>& nums, int target) {
         int n = nums.size();
-        int s = 0;
-        int e = n - 1;
-
-        while(s < e){
-            int mid = s + (e - s) / 2;
-            if(nums[mid] > nums[e]){
-                s = mid  + 1;
+        int low = 0;
+        int high = n-1;
+        int pivot = 0;
+        while(low < high){
+            int mid = low + (high - low)/2;
+            if(nums[mid] > nums[high]){
+                low = mid + 1;
             }
-
-            else{
-                e = mid;
-            }
+            else high = mid;
         }
-        if(nums[e] == target) return e;
-        int pivot = e;
+        pivot = low;
+        if(nums[pivot] == target) return pivot;
         
-        if(nums[pivot] <= target && target <= nums[n -1]){
-            s = pivot;
-            e = n - 1;
-            while( s < e){
-                int mid = s + (e - s) / 2;
-                if(nums[mid] == target){
-                    return mid;
-                }
-                
-                else if(nums[mid] < target){
-                    s = mid + 1;
-                }
-
-                else{
-                    e = mid;
+        if(target >= nums[pivot] && nums[n-1] >= target){
+            low = pivot;
+            high = n -1;
+            while(low < high){
+                int mid = low + (high - low)/2;
+                if(nums[mid] == target) return mid ;
+                else if(target > nums[mid]){
+                    low = mid + 1;
+                }else{
+                    high = mid;
                 }
             }
-            if(nums[s] == target) return s;
-        }
-
-        else{
-            s = 0;
-            e = pivot;
-            while ( s < e){
-                int mid = s + (e - s) / 2;
-                if(nums[mid] == target){
-                    return mid;
-                }
-
-                else if(nums[mid] < target){
-                    s = mid + 1;
-                }
-
-                else{
-                    e = mid;
+            if(nums[high] == target) return high;
+        }else{
+            low = 0;
+            high = pivot;
+            while(low < high){
+                int mid = low + (high - low)/2;
+                if(nums[mid] == target) return mid;
+                else if(target > nums[mid]){
+                    low = mid + 1;
+                }else{
+                    high = mid;
                 }
             }
-            if(nums[s] == target) return s;
 
+            if(nums[high] == target) return high;
+            
         }
 
         return -1;
