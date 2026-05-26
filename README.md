@@ -63,7 +63,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 1 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
-| 06 | [Linked List](./Linked-List/) | 0 |
+| 06 | [Linked List](./Linked-List/) | 1 |
 | 07 | [Trees](./Trees/) | 0 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
@@ -72,8 +72,8 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 1 |
-| 16 | [Other](./Other/) | 1 |
+| 15 | [Math Geometry](./Math-Geometry/) | 0 |
+| 16 | [Other](./Other/) | 0 |
 <!-- TOPICS_END -->
 
 ---
@@ -152,13 +152,11 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | String | [✔️](./Other/0008-string-to-integer-atoi/) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/0020-valid-parentheses/) |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0033-search-in-rotated-sorted-array/) |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0039-combination-sum/) |
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0040-combination-sum-ii/) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0046-permutations/) |
-| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | Math, Recursion | [✔️](./Math-Geometry/0050-powx-n/) |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0078-subsets/) |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0090-subsets-ii/) |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0153-find-minimum-in-rotated-sorted-array/) |
@@ -171,6 +169,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2540-minimum-common-value/) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2657-find-the-prefix-common-array-of-two-arrays/) |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2784-check-if-array-is-good/) |
+| 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | 🟡 Medium | Linked List, Math | [✔️](./Linked-List/2816-double-a-number-represented-as-a-linked-list/) |
 | 2869 | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2869-minimum-operations-to-collect-elements/) |
 <!-- INDEX_END -->
 
