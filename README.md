@@ -156,7 +156,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/0020-valid-parentheses/) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | Linked List, Recursion | [✔️](./Linked-List/0021-merge-two-sorted-lists/) |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0033-search-in-rotated-sorted-array/) |
-| 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0040-combination-sum-ii/) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0046-permutations/) |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0090-subsets-ii/) |
 | 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | Array, Binary Search | [✔️](./Arrays-Hashing/0154-find-minimum-in-rotated-sorted-array-ii/) |
@@ -171,6 +170,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2869 | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2869-minimum-operations-to-collect-elements/) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/3120-count-the-number-of-special-characters-i/) |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/3121-count-the-number-of-special-characters-ii/) |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3300-minimum-element-after-replacement-with-digit-sum/) |
 <!-- INDEX_END -->
 
 ---
