@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 15 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 14 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 1 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
-| 16 | [Other](./Other/) | 0 |
+| 16 | [Other](./Other/) | 1 |
 <!-- TOPICS_END -->
 
 ---
@@ -158,12 +158,11 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0033-search-in-rotated-sorted-array/) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0046-permutations/) |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | Array, Stack | [✔️](./Arrays-Hashing/0084-largest-rectangle-in-histogram/) |
-| 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | Array, Binary Search | [✔️](./Arrays-Hashing/0154-find-minimum-in-rotated-sorted-array-ii/) |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List, Recursion | [✔️](./Linked-List/0203-remove-linked-list-elements/) |
-| 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0216-combination-sum-iii/) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/0496-next-greater-element-i/) |
-| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1306-jump-game-iii/) |
+| 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0907-sum-of-subarray-minimums/) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Array | [✔️](./Arrays-Hashing/1752-check-if-array-is-sorted-and-rotated/) |
+| 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2126-destroying-asteroids/) |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2540-minimum-common-value/) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2657-find-the-prefix-common-array-of-two-arrays/) |
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | 🟡 Medium | Linked List, Math | [✔️](./Linked-List/2816-double-a-number-represented-as-a-linked-list/) |
@@ -171,6 +170,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/3120-count-the-number-of-special-characters-i/) |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/3121-count-the-number-of-special-characters-ii/) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3300-minimum-element-after-replacement-with-digit-sum/) |
+| 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | 🟢 Easy | — | [✔️](./Other/3945-digit-frequency-score/) |
 <!-- INDEX_END -->
 
 ---
