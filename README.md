@@ -58,10 +58,10 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 14 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 13 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 1 |
+| 04 | [Stack](./Stack/) | 2 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 3 |
 | 07 | [Trees](./Trees/) | 0 |
@@ -156,15 +156,15 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/0020-valid-parentheses/) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | Linked List, Recursion | [✔️](./Linked-List/0021-merge-two-sorted-lists/) |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0033-search-in-rotated-sorted-array/) |
-| 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | Array, Backtracking | [✔️](./Arrays-Hashing/0046-permutations/) |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | Array, Stack | [✔️](./Arrays-Hashing/0084-largest-rectangle-in-histogram/) |
+| 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0085-maximal-rectangle/) |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List, Recursion | [✔️](./Linked-List/0203-remove-linked-list-elements/) |
+| 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | String, Stack | [✔️](./Stack/0402-remove-k-digits/) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/0496-next-greater-element-i/) |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0907-sum-of-subarray-minimums/) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Array | [✔️](./Arrays-Hashing/1752-check-if-array-is-sorted-and-rotated/) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2126-destroying-asteroids/) |
-| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2540-minimum-common-value/) |
-| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2657-find-the-prefix-common-array-of-two-arrays/) |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | Array, Greedy | [✔️](./Arrays-Hashing/2144-minimum-cost-of-buying-candies-with-discount/) |
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | 🟡 Medium | Linked List, Math | [✔️](./Linked-List/2816-double-a-number-represented-as-a-linked-list/) |
 | 2869 | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2869-minimum-operations-to-collect-elements/) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/3120-count-the-number-of-special-characters-i/) |
