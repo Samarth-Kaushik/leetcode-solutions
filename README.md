@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 13 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 2 |
@@ -69,7 +69,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
 | 11 | [Graphs](./Graphs/) | 0 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
@@ -155,14 +155,14 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | Array, Two Pointers | [✔️](./Arrays-Hashing/0011-container-with-most-water/) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/0020-valid-parentheses/) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | Linked List, Recursion | [✔️](./Linked-List/0021-merge-two-sorted-lists/) |
-| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0033-search-in-rotated-sorted-array/) |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | Array, Stack | [✔️](./Arrays-Hashing/0084-largest-rectangle-in-histogram/) |
 | 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0085-maximal-rectangle/) |
+| 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0131-palindrome-partitioning/) |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List, Recursion | [✔️](./Linked-List/0203-remove-linked-list-elements/) |
 | 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | String, Stack | [✔️](./Stack/0402-remove-k-digits/) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/0496-next-greater-element-i/) |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0907-sum-of-subarray-minimums/) |
-| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Array | [✔️](./Arrays-Hashing/1752-check-if-array-is-sorted-and-rotated/) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | 🟡 Medium | Array, Stack | [✔️](./Arrays-Hashing/1441-build-an-array-with-stack-operations/) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2126-destroying-asteroids/) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | Array, Greedy | [✔️](./Arrays-Hashing/2144-minimum-cost-of-buying-candies-with-discount/) |
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | 🟡 Medium | Linked List, Math | [✔️](./Linked-List/2816-double-a-number-represented-as-a-linked-list/) |
