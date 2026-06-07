@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 13 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 11 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 1 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 1 |
-| 16 | [Other](./Other/) | 2 |
+| 16 | [Other](./Other/) | 4 |
 <!-- TOPICS_END -->
 
 ---
@@ -159,7 +159,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | String, Stack | [✔️](./Stack/0402-remove-k-digits/) |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/0424-longest-repeating-character-replacement/) |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0904-fruit-into-baskets/) |
-| 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0907-sum-of-subarray-minimums/) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/1004-max-consecutive-ones-iii/) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | 🟡 Medium | Array, Stack | [✔️](./Arrays-Hashing/1441-build-an-array-with-stack-operations/) |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | 🟡 Medium | String, Binary Search | [✔️](./Binary-Search/2024-maximize-the-confusion-of-an-exam/) |
@@ -168,9 +167,10 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2517 | [Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/2517-maximum-tastiness-of-candy-basket/) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 Easy | Array, Prefix Sum | [✔️](./Arrays-Hashing/2574-left-and-right-sum-differences/) |
 | 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/3751-total-waviness-of-numbers-in-range-i/) |
-| 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | 🟢 Easy | Hash Table, Math | [✔️](./Arrays-Hashing/3945-digit-frequency-score/) |
 | 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | 🟢 Easy | — | [✔️](./Other/3950-exactly-one-consecutive-set-bits-pair/) |
 | 3952 | [Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | 🟡 Medium | — | [✔️](./Other/3952-maximum-total-value-of-covered-indices/) |
+| 3954 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | 🟢 Easy | — | [✔️](./Other/3954-sum-of-compatible-numbers-in-range-i/) |
+| 3955 | [Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | 🟡 Medium | — | [✔️](./Other/3955-valid-binary-strings-with-cost-limit/) |
 <!-- INDEX_END -->
 
 ---
