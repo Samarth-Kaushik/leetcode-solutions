@@ -9,7 +9,7 @@ public:
             
             int sum = 0;
             
-            for(int j = 0;j < s.size(); j++){
+            for(int j = 0; j < s.size(); j++){
                 int n = s[j] - 'a';
                 sum += weights[n];
             }
