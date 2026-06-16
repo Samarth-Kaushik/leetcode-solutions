@@ -58,22 +58,22 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 3 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 2 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 3 |
+| 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
-| 06 | [Linked List](./Linked-List/) | 2 |
-| 07 | [Trees](./Trees/) | 8 |
+| 06 | [Linked List](./Linked-List/) | 3 |
+| 07 | [Trees](./Trees/) | 9 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
-| 10 | [Backtracking](./Backtracking/) | 0 |
+| 10 | [Backtracking](./Backtracking/) | 1 |
 | 11 | [Graphs](./Graphs/) | 0 |
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
-| 16 | [Other](./Other/) | 3 |
+| 16 | [Other](./Other/) | 4 |
 <!-- TOPICS_END -->
 
 ---
@@ -152,22 +152,22 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | Stack, Tree | [✔️](./Stack/0094-binary-tree-inorder-traversal/) |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0100-same-tree/) |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0101-symmetric-tree/) |
-| 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0102-binary-tree-level-order-traversal/) |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0103-binary-tree-zigzag-level-order-traversal/) |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0104-maximum-depth-of-binary-tree/) |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0110-balanced-binary-tree/) |
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | Dynamic Programming, Tree | [✔️](./Dynamic-Programming/0124-binary-tree-maximum-path-sum/) |
-| 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | Stack, Tree | [✔️](./Stack/0144-binary-tree-preorder-traversal/) |
-| 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | Stack, Tree | [✔️](./Stack/0145-binary-tree-postorder-traversal/) |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0199-binary-tree-right-side-view/) |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0236-lowest-common-ancestor-of-a-binary-tree/) |
+| 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | String, Backtracking | [✔️](./Backtracking/0257-binary-tree-paths/) |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | Linked List | [✔️](./Linked-List/0328-odd-even-linked-list/) |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0543-diameter-of-binary-tree/) |
+| 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0662-maximum-width-of-binary-tree/) |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | 🔴 Hard | Hash Table, Tree | [✔️](./Arrays-Hashing/0987-vertical-order-traversal-of-a-binary-tree/) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/2095-delete-the-middle-node-of-a-linked-list/) |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | 🟡 Medium | Linked List, Two Pointers | [✔️](./Linked-List/2130-maximum-twin-sum-of-a-linked-list/) |
-| 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/3689-maximum-total-subarray-value-i/) |
+| 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | 🟡 Medium | String, Simulation | [✔️](./Other/3612-process-string-with-special-operations-i/) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | Array, String | [✔️](./Arrays-Hashing/3838-weighted-word-mapping/) |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | 🟢 Easy | — | [✔️](./Other/3959-check-good-integer/) |
 | 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray/) | 🟡 Medium | — | [✔️](./Other/3960-frequency-balance-subarray/) |
