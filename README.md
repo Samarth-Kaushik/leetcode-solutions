@@ -170,8 +170,8 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | 🟡 Medium | Hash Table, Tree | [✔️](./Arrays-Hashing/2385-amount-of-time-for-binary-tree-to-be-infected/) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | 🟡 Medium | String, Simulation | [✔️](./Other/3612-process-string-with-special-operations-i/) |
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | 🔴 Hard | String, Simulation | [✔️](./Other/3614-process-string-with-special-operations-ii/) |
-| 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray/) | 🟡 Medium | — | [✔️](./Other/3960-frequency-balance-subarray/) |
-| 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | 🟡 Medium | — | [✔️](./Other/3961-maximize-sum-of-device-ratings/) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | — | [✔️](./Other/3963-create-grid-with-exactly-one-path/) |
+| 3964 | [Minimum Lights to Illuminate a Road](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | 🟡 Medium | — | [✔️](./Other/3964-minimum-lights-to-illuminate-a-road/) |
 <!-- INDEX_END -->
 
 ---
