@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 7 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 8 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 1 |
-| 16 | [Other](./Other/) | 5 |
+| 16 | [Other](./Other/) | 4 |
 <!-- TOPICS_END -->
 
 ---
@@ -154,20 +154,20 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 |---|---------|------------|--------|----------|
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0098-validate-binary-search-tree/) |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0102-binary-tree-level-order-traversal/) |
-| 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0230-kth-smallest-element-in-a-bst/) |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0235-lowest-common-ancestor-of-a-binary-search-tree/) |
 | 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 Medium | Tree, Binary Search Tree | [✔️](./Trees/0450-delete-node-in-a-bst/) |
+| 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | 🟢 Easy | Hash Table, Two Pointers | [✔️](./Arrays-Hashing/0653-two-sum-iv-input-is-a-bst/) |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | Tree, Binary Search Tree | [✔️](./Trees/0700-search-in-a-binary-search-tree/) |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | Tree, Binary Search Tree | [✔️](./Trees/0701-insert-into-a-binary-search-tree/) |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0930-binary-subarrays-with-sum/) |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | Array, Stack | [✔️](./Arrays-Hashing/1008-construct-binary-search-tree-from-preorder-traversal/) |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/1189-maximum-number-of-balloons/) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1248-count-number-of-nice-subarrays/) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | 🟡 Medium | Math | [✔️](./Math-Geometry/1344-angle-between-hands-of-a-clock/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/1358-number-of-substrings-containing-all-three-characters/) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | 🟢 Easy | Array, Prefix Sum | [✔️](./Arrays-Hashing/1732-find-the-highest-altitude/) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/1833-maximum-ice-cream-bars/) |
-| 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | 🟡 Medium | Hash Table, Tree | [✔️](./Arrays-Hashing/2385-amount-of-time-for-binary-tree-to-be-infected/) |
-| 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | 🔴 Hard | String, Simulation | [✔️](./Other/3614-process-string-with-special-operations-ii/) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | — | [✔️](./Other/3963-create-grid-with-exactly-one-path/) |
 | 3964 | [Minimum Lights to Illuminate a Road](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | 🟡 Medium | — | [✔️](./Other/3964-minimum-lights-to-illuminate-a-road/) |
 | 3968 | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/) | 🟡 Medium | — | [✔️](./Other/3968-maximum-manhattan-distance-after-all-moves/) |
