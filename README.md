@@ -58,13 +58,13 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 8 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 2 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 2 |
-| 07 | [Trees](./Trees/) | 4 |
+| 07 | [Trees](./Trees/) | 1 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
-| 16 | [Other](./Other/) | 4 |
+| 16 | [Other](./Other/) | 3 |
 <!-- TOPICS_END -->
 
 ---
@@ -153,13 +153,13 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | Linked List, Divide And Conquer | [✔️](./Linked-List/0023-merge-k-sorted-lists/) |
-| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0098-validate-binary-search-tree/) |
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | Linked List, Stack | [✔️](./Linked-List/0114-flatten-binary-tree-to-linked-list/) |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | Stack, Design | [✔️](./Stack/0155-min-stack/) |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/0169-majority-element/) |
 | 0173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | 🟡 Medium | Stack, Tree | [✔️](./Stack/0173-binary-search-tree-iterator/) |
-| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0230-kth-smallest-element-in-a-bst/) |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0235-lowest-common-ancestor-of-a-binary-search-tree/) |
-| 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 Medium | Tree, Binary Search Tree | [✔️](./Trees/0450-delete-node-in-a-bst/) |
+| 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Array, Prefix Sum | [✔️](./Arrays-Hashing/0238-product-of-array-except-self/) |
+| 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0347-top-k-frequent-elements/) |
 | 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | 🟢 Easy | Hash Table, Two Pointers | [✔️](./Arrays-Hashing/0653-two-sum-iv-input-is-a-bst/) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | Array, Stack | [✔️](./Arrays-Hashing/0739-daily-temperatures/) |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0930-binary-subarrays-with-sum/) |
@@ -168,7 +168,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1248-count-number-of-nice-subarrays/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/1358-number-of-substrings-containing-all-three-characters/) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/1833-maximum-ice-cream-bars/) |
-| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | — | [✔️](./Other/3963-create-grid-with-exactly-one-path/) |
+| 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/3737-count-subarrays-with-majority-element-i/) |
 | 3964 | [Minimum Lights to Illuminate a Road](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | 🟡 Medium | — | [✔️](./Other/3964-minimum-lights-to-illuminate-a-road/) |
 | 3968 | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/) | 🟡 Medium | — | [✔️](./Other/3968-maximum-manhattan-distance-after-all-moves/) |
 | 3969 | [Valid Subarrays With Matching Sum Digits I](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/) | 🟡 Medium | — | [✔️](./Other/3969-valid-subarrays-with-matching-sum-digits-i/) |
