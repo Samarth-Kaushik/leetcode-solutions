@@ -5,16 +5,16 @@ public:
         vector<int> ans(n, 0);
         stack<int> st;
         
-        for(int i = n - 1; i >= 0; i--){
-            while(!st.empty() && temperatures[i] >= temperatures[st.top()]){
+        for(int j = n - 1; j >= 0; j--){
+            while(!st.empty() && temperatures[j] >= temperatures[st.top()]){
                 st.pop();
             }
             
             if(!st.empty()) {
-                ans[i] = st.top() - i;
+                ans[j] = st.top() - j;
             }
             
-            st.push(i);
+            st.push(j);
         }
         return ans;
     }
