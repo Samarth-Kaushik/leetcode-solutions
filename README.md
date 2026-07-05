@@ -58,18 +58,18 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 14 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 2 |
+| 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
-| 06 | [Linked List](./Linked-List/) | 2 |
-| 07 | [Trees](./Trees/) | 0 |
+| 06 | [Linked List](./Linked-List/) | 0 |
+| 07 | [Trees](./Trees/) | 1 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
 | 11 | [Graphs](./Graphs/) | 0 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
@@ -152,18 +152,18 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | Linked List, Divide And Conquer | [✔️](./Linked-List/0023-merge-k-sorted-lists/) |
-| 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | Linked List, Stack | [✔️](./Linked-List/0114-flatten-binary-tree-to-linked-list/) |
-| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | Stack, Design | [✔️](./Stack/0155-min-stack/) |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0022-generate-parentheses/) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/0169-majority-element/) |
-| 0173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | 🟡 Medium | Stack, Tree | [✔️](./Stack/0173-binary-search-tree-iterator/) |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | Array, Divide And Conquer | [✔️](./Arrays-Hashing/0215-kth-largest-element-in-an-array/) |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Array, Prefix Sum | [✔️](./Arrays-Hashing/0238-product-of-array-except-self/) |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0347-top-k-frequent-elements/) |
+| 0355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | 🟡 Medium | Hash Table, Linked List | [✔️](./Arrays-Hashing/0355-design-twitter/) |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0621-task-scheduler/) |
+| 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | Tree, Design | [✔️](./Trees/0703-kth-largest-element-in-a-stream/) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | Array, Stack | [✔️](./Arrays-Hashing/0739-daily-temperatures/) |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | 🟡 Medium | Array, Divide And Conquer | [✔️](./Arrays-Hashing/0918-maximum-sum-circular-subarray/) |
-| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | Array, Stack | [✔️](./Arrays-Hashing/1008-construct-binary-search-tree-from-preorder-traversal/) |
+| 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0973-k-closest-points-to-origin/) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | Array, Heap Priority Queue | [✔️](./Arrays-Hashing/1046-last-stone-weight/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/1358-number-of-substrings-containing-all-three-characters/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | 🟢 Easy | Array, String | [✔️](./Arrays-Hashing/1967-number-of-strings-that-appear-as-substrings-in-word/) |
