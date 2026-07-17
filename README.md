@@ -159,7 +159,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0621-task-scheduler/) |
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | Tree, Design | [✔️](./Trees/0703-kth-largest-element-in-a-stream/) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | Array, Stack | [✔️](./Arrays-Hashing/0739-daily-temperatures/) |
-| 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | 🟡 Medium | Array, Divide And Conquer | [✔️](./Arrays-Hashing/0918-maximum-sum-circular-subarray/) |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0973-k-closest-points-to-origin/) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | Array, Heap Priority Queue | [✔️](./Arrays-Hashing/1046-last-stone-weight/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | 🟡 Medium | Enumeration | [✔️](./Other/1291-sequential-digits/) |
@@ -168,6 +167,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | 🟢 Easy | Array, String | [✔️](./Arrays-Hashing/1967-number-of-strings-that-appear-as-substrings-in-word/) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | 🟢 Easy | Math, Number Theory | [✔️](./Math-Geometry/3658-gcd-of-odd-and-even-sums/) |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/3867-sum-of-gcd-of-formed-pairs/) |
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | 🟢 Easy | — | [✔️](./Other/3978-unique-middle-element/) |
 | 3979 | [Maximum Valid Pair Sum](https://leetcode.com/problems/maximum-valid-pair-sum/) | 🟡 Medium | — | [✔️](./Other/3979-maximum-valid-pair-sum/) |
 | 3980 | [Minimum Operations to Transform Binary String](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | 🟡 Medium | — | [✔️](./Other/3980-minimum-operations-to-transform-binary-string/) |
