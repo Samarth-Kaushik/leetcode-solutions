@@ -64,11 +64,11 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 04 | [Stack](./Stack/) | 1 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 0 |
-| 07 | [Trees](./Trees/) | 1 |
+| 07 | [Trees](./Trees/) | 0 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
-| 11 | [Graphs](./Graphs/) | 0 |
+| 11 | [Graphs](./Graphs/) | 1 |
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
@@ -156,7 +156,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0022-generate-parentheses/) |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/0208-implement-trie-prefix-tree/) |
 | 0355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | 🟡 Medium | Hash Table, Linked List | [✔️](./Arrays-Hashing/0355-design-twitter/) |
-| 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | Tree, Design | [✔️](./Trees/0703-kth-largest-element-in-a-stream/) |
+| 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0547-number-of-provinces/) |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0973-k-closest-points-to-origin/) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | Array, Heap Priority Queue | [✔️](./Arrays-Hashing/1046-last-stone-weight/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | 🟡 Medium | String, Stack | [✔️](./Stack/1081-smallest-subsequence-of-distinct-characters/) |
