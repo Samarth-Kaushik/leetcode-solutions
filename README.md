@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 8 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 1 |
@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 1 |
+| 15 | [Math Geometry](./Math-Geometry/) | 2 |
 | 16 | [Other](./Other/) | 6 |
 <!-- TOPICS_END -->
 
@@ -157,13 +157,13 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/0208-implement-trie-prefix-tree/) |
 | 0355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | 🟡 Medium | Hash Table, Linked List | [✔️](./Arrays-Hashing/0355-design-twitter/) |
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0547-number-of-provinces/) |
-| 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0973-k-closest-points-to-origin/) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | Array, Breadth First Search | [✔️](./Arrays-Hashing/0994-rotting-oranges/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | 🟡 Medium | String, Stack | [✔️](./Stack/1081-smallest-subsequence-of-distinct-characters/) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | 🟢 Easy | Array, Matrix | [✔️](./Arrays-Hashing/1260-shift-2d-grid/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | 🟡 Medium | Enumeration | [✔️](./Other/1291-sequential-digits/) |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/1331-rank-transform-of-an-array/) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/1979-find-greatest-common-divisor-of-array/) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | 🟢 Easy | Math, Sorting | [✔️](./Math-Geometry/3536-maximum-product-of-two-digits/) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | 🟢 Easy | Math, Number Theory | [✔️](./Math-Geometry/3658-gcd-of-odd-and-even-sums/) |
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/3867-sum-of-gcd-of-formed-pairs/) |
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | 🟢 Easy | — | [✔️](./Other/3992-rearrange-string-to-avoid-character-pair/) |
