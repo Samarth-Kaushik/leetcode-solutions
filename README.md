@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 10 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 1 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 2 |
-| 16 | [Other](./Other/) | 7 |
+| 16 | [Other](./Other/) | 6 |
 <!-- TOPICS_END -->
 
 ---
@@ -158,6 +158,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0547-number-of-provinces/) |
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/0628-maximum-product-of-three-numbers/) |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | Array, Depth First Search | [✔️](./Arrays-Hashing/0733-flood-fill/) |
+| 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0877-stone-game/) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | Array, Breadth First Search | [✔️](./Arrays-Hashing/0994-rotting-oranges/) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1020-number-of-enclaves/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | 🟡 Medium | String, Stack | [✔️](./Stack/1081-smallest-subsequence-of-distinct-characters/) |
@@ -166,7 +167,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | 🟢 Easy | Math, String | [✔️](./Math-Geometry/3014-minimum-number-of-pushes-to-type-word-i/) |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | 🟡 Medium | String, Sorting | [✔️](./Other/3517-smallest-palindromic-rearrangement-i/) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | 🟢 Easy | Math, Sorting | [✔️](./Math-Geometry/3536-maximum-product-of-two-digits/) |
-| 3993 | [Maximum Value of an Alternating Sequence](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | 🟡 Medium | — | [✔️](./Other/3993-maximum-value-of-an-alternating-sequence/) |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-partition-array/) | 🟡 Medium | — | [✔️](./Other/3994-minimum-adjacent-swaps-to-partition-array/) |
 | 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | 🟢 Easy | — | [✔️](./Other/3996-even-number-of-knight-moves/) |
 | 3997 | [Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/) | 🟡 Medium | — | [✔️](./Other/3997-count-dominant-nodes-in-a-binary-tree/) |
