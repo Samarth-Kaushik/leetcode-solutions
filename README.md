@@ -58,13 +58,13 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 10 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 11 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 1 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 0 |
-| 07 | [Trees](./Trees/) | 0 |
+| 07 | [Trees](./Trees/) | 1 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 2 |
-| 16 | [Other](./Other/) | 6 |
+| 16 | [Other](./Other/) | 4 |
 <!-- TOPICS_END -->
 
 ---
@@ -154,6 +154,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 |---|---------|------------|--------|----------|
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/0003-longest-substring-without-repeating-characters/) |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/0130-surrounded-regions/) |
+| 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0199-binary-tree-right-side-view/) |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0542-01-matrix/) |
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0547-number-of-provinces/) |
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/0628-maximum-product-of-three-numbers/) |
@@ -167,9 +168,8 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | 🟢 Easy | Math, String | [✔️](./Math-Geometry/3014-minimum-number-of-pushes-to-type-word-i/) |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | 🟡 Medium | String, Sorting | [✔️](./Other/3517-smallest-palindromic-rearrangement-i/) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | 🟢 Easy | Math, Sorting | [✔️](./Math-Geometry/3536-maximum-product-of-two-digits/) |
-| 3994 | [Minimum Adjacent Swaps to Partition Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-partition-array/) | 🟡 Medium | — | [✔️](./Other/3994-minimum-adjacent-swaps-to-partition-array/) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3731-find-missing-elements/) |
 | 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | 🟢 Easy | — | [✔️](./Other/3996-even-number-of-knight-moves/) |
-| 3997 | [Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/) | 🟡 Medium | — | [✔️](./Other/3997-count-dominant-nodes-in-a-binary-tree/) |
 | 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | 🟢 Easy | — | [✔️](./Other/4006-count-valid-prefixes/) |
 | 4007 | [Widest Possible Fence](https://leetcode.com/problems/widest-possible-fence/) | 🟡 Medium | — | [✔️](./Other/4007-widest-possible-fence/) |
 <!-- INDEX_END -->
