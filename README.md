@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 10 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -68,7 +68,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
-| 11 | [Graphs](./Graphs/) | 1 |
+| 11 | [Graphs](./Graphs/) | 3 |
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
@@ -152,18 +152,18 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Hash Table, String | [✔️](./Arrays-Hashing/0003-longest-substring-without-repeating-characters/) |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/0130-surrounded-regions/) |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | Hash Table, Linked List | [✔️](./Arrays-Hashing/0160-intersection-of-two-linked-lists/) |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0199-binary-tree-right-side-view/) |
+| 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0207-course-schedule/) |
+| 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0210-course-schedule-ii/) |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0542-01-matrix/) |
-| 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0547-number-of-provinces/) |
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/0628-maximum-product-of-three-numbers/) |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | Array, Depth First Search | [✔️](./Arrays-Hashing/0733-flood-fill/) |
+| 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0802-find-eventual-safe-states/) |
 | 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0877-stone-game/) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | Array, Breadth First Search | [✔️](./Arrays-Hashing/0994-rotting-oranges/) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1020-number-of-enclaves/) |
-| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | 🟢 Easy | Array, Matrix | [✔️](./Arrays-Hashing/1260-shift-2d-grid/) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | 🟢 Easy | Array, Sorting | [✔️](./Arrays-Hashing/1464-maximum-product-of-two-elements-in-an-array/) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | 🟢 Easy | Math, String | [✔️](./Math-Geometry/3014-minimum-number-of-pushes-to-type-word-i/) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | Math, Enumeration | [✔️](./Math-Geometry/3345-smallest-divisible-digit-product-i/) |
