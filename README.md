@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 11 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 1 |
-| 16 | [Other](./Other/) | 1 |
+| 16 | [Other](./Other/) | 0 |
 <!-- TOPICS_END -->
 
 ---
@@ -162,6 +162,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0802-find-eventual-safe-states/) |
 | 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0877-stone-game/) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | Array, Breadth First Search | [✔️](./Arrays-Hashing/1091-shortest-path-in-binary-matrix/) |
+| 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1386-cinema-seat-allocation/) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/1631-path-with-minimum-effort/) |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1976-number-of-ways-to-arrive-at-destination/) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/2029-stone-game-ix/) |
@@ -171,7 +172,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3471-find-the-largest-almost-missing-integer/) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | Array, Bit Manipulation | [✔️](./Arrays-Hashing/3702-longest-subsequence-with-non-zero-bitwise-xor/) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3731-find-missing-elements/) |
-| 4007 | [Widest Possible Fence](https://leetcode.com/problems/widest-possible-fence/) | 🟡 Medium | — | [✔️](./Other/4007-widest-possible-fence/) |
 <!-- INDEX_END -->
 
 ---
