@@ -64,12 +64,12 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 0 |
-| 07 | [Trees](./Trees/) | 1 |
+| 07 | [Trees](./Trees/) | 0 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
 | 11 | [Graphs](./Graphs/) | 4 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 2 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 3 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 1 |
@@ -153,7 +153,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | Hash Table, Linked List | [✔️](./Arrays-Hashing/0160-intersection-of-two-linked-lists/) |
-| 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0199-binary-tree-right-side-view/) |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/0205-isomorphic-strings/) |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0207-course-schedule/) |
 | 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0210-course-schedule-ii/) |
@@ -161,6 +160,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | Dynamic Programming, Depth First Search | [✔️](./Dynamic-Programming/0787-cheapest-flights-within-k-stops/) |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0802-find-eventual-safe-states/) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | Array, Breadth First Search | [✔️](./Arrays-Hashing/1091-shortest-path-in-binary-matrix/) |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1386-cinema-seat-allocation/) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/1631-path-with-minimum-effort/) |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1976-number-of-ways-to-arrive-at-destination/) |
