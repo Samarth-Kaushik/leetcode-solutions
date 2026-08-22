@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 11 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 3 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 1 |
+| 15 | [Math Geometry](./Math-Geometry/) | 2 |
 | 16 | [Other](./Other/) | 0 |
 <!-- TOPICS_END -->
 
@@ -170,8 +170,8 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/3069-distribute-elements-into-two-arrays-i/) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | Math, Enumeration | [✔️](./Math-Geometry/3345-smallest-divisible-digit-product-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3471-find-the-largest-almost-missing-integer/) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | Math | [✔️](./Math-Geometry/3622-check-divisibility-by-digit-sum-and-product/) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | Array, Bit Manipulation | [✔️](./Arrays-Hashing/3702-longest-subsequence-with-non-zero-bitwise-xor/) |
-| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3731-find-missing-elements/) |
 <!-- INDEX_END -->
 
 ---
