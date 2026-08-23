@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 11 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 10 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -68,12 +68,12 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
-| 11 | [Graphs](./Graphs/) | 4 |
+| 11 | [Graphs](./Graphs/) | 3 |
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 3 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 2 |
-| 16 | [Other](./Other/) | 0 |
+| 16 | [Other](./Other/) | 2 |
 <!-- TOPICS_END -->
 
 ---
@@ -152,9 +152,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | Hash Table, Linked List | [✔️](./Arrays-Hashing/0160-intersection-of-two-linked-lists/) |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/0205-isomorphic-strings/) |
-| 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0207-course-schedule/) |
 | 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0210-course-schedule-ii/) |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0743-network-delay-time/) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | Dynamic Programming, Depth First Search | [✔️](./Dynamic-Programming/0787-cheapest-flights-within-k-stops/) |
@@ -163,15 +161,17 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1386-cinema-seat-allocation/) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/1631-path-with-minimum-effort/) |
+| 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | 🟡 Medium | Math, String | [✔️](./Math-Geometry/1927-sum-game/) |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1976-number-of-ways-to-arrive-at-destination/) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/2029-stone-game-ix/) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2958-length-of-longest-subarray-with-at-most-k-frequency/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/3069-distribute-elements-into-two-arrays-i/) |
-| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | Math, Enumeration | [✔️](./Math-Geometry/3345-smallest-divisible-digit-product-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3471-find-the-largest-almost-missing-integer/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | Math | [✔️](./Math-Geometry/3622-check-divisibility-by-digit-sum-and-product/) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | Array, Bit Manipulation | [✔️](./Arrays-Hashing/3702-longest-subsequence-with-non-zero-bitwise-xor/) |
+| 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | 🟢 Easy | — | [✔️](./Other/4030-check-ascii-palindromic/) |
+| 4031 | [Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/) | 🟡 Medium | — | [✔️](./Other/4031-find-all-numbers-disappeared-in-an-array-ii/) |
 <!-- INDEX_END -->
 
 ---
