@@ -58,9 +58,9 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 10 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
-| 03 | [Sliding Window](./Sliding-Window/) | 0 |
+| 03 | [Sliding Window](./Sliding-Window/) | 1 |
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 0 |
@@ -159,10 +159,10 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/1319-number-of-operations-to-make-network-connected/) |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1386-cinema-seat-allocation/) |
-| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/1631-path-with-minimum-effort/) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | 🟡 Medium | Math, String | [✔️](./Math-Geometry/1927-sum-game/) |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1976-number-of-ways-to-arrive-at-destination/) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/2029-stone-game-ix/) |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | String, Sliding Window | [✔️](./Sliding-Window/2904-shortest-and-lexicographically-smallest-beautiful-string/) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2958-length-of-longest-subarray-with-at-most-k-frequency/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/3069-distribute-elements-into-two-arrays-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3471-find-the-largest-almost-missing-integer/) |
