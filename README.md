@@ -68,12 +68,12 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
-| 11 | [Graphs](./Graphs/) | 2 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 3 |
+| 11 | [Graphs](./Graphs/) | 1 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 2 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 2 |
-| 16 | [Other](./Other/) | 5 |
+| 16 | [Other](./Other/) | 7 |
 <!-- TOPICS_END -->
 
 ---
@@ -154,17 +154,15 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 |---|---------|------------|--------|----------|
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/0205-isomorphic-strings/) |
 | 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0721-accounts-merge/) |
-| 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/0743-network-delay-time/) |
-| 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | Dynamic Programming, Depth First Search | [✔️](./Dynamic-Programming/0787-cheapest-flights-within-k-stops/) |
 | 0947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | 🟡 Medium | Hash Table, Depth First Search | [✔️](./Arrays-Hashing/0947-most-stones-removed-with-same-row-or-column/) |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | 🟡 Medium | Depth First Search, Breadth First Search | [✔️](./Graphs/1319-number-of-operations-to-make-network-connected/) |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1386-cinema-seat-allocation/) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | 🟡 Medium | Math, String | [✔️](./Math-Geometry/1927-sum-game/) |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | Dynamic Programming, Graph | [✔️](./Dynamic-Programming/1976-number-of-ways-to-arrive-at-destination/) |
+| 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2091-removing-minimum-and-maximum-from-array/) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | String, Sliding Window | [✔️](./Sliding-Window/2904-shortest-and-lexicographically-smallest-beautiful-string/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | Array, Simulation | [✔️](./Arrays-Hashing/3069-distribute-elements-into-two-arrays-i/) |
-| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3471-find-the-largest-almost-missing-integer/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | Math | [✔️](./Math-Geometry/3622-check-divisibility-by-digit-sum-and-product/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3718-smallest-missing-multiple-of-k/) |
 | 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | 🟢 Easy | — | [✔️](./Other/4030-check-ascii-palindromic/) |
@@ -172,6 +170,8 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 4032 | [Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) | 🟡 Medium | — | [✔️](./Other/4032-longest-subarray-with-at-most-k-distinct-prime-factors/) |
 | 4034 | [Minimum Bishop Moves to Reach Target](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/) | 🟡 Medium | — | [✔️](./Other/4034-minimum-bishop-moves-to-reach-target/) |
 | 4036 | [Lexicographically Largest String After Pair Transformations](https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/) | 🟡 Medium | — | [✔️](./Other/4036-lexicographically-largest-string-after-pair-transformations/) |
+| 4038 | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | 🟢 Easy | — | [✔️](./Other/4038-count-integers-appearing-in-a-single-block/) |
+| 4039 | [Sum of Decoded Numbers](https://leetcode.com/problems/sum-of-decoded-numbers/) | 🟡 Medium | — | [✔️](./Other/4039-sum-of-decoded-numbers/) |
 <!-- INDEX_END -->
 
 ---
