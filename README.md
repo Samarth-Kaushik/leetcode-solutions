@@ -72,8 +72,8 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 2 |
-| 16 | [Other](./Other/) | 7 |
+| 15 | [Math Geometry](./Math-Geometry/) | 3 |
+| 16 | [Other](./Other/) | 6 |
 <!-- TOPICS_END -->
 
 ---
@@ -162,9 +162,9 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2091-removing-minimum-and-maximum-from-array/) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | String, Sliding Window | [✔️](./Sliding-Window/2904-shortest-and-lexicographically-smallest-beautiful-string/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/3718-smallest-missing-multiple-of-k/) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | Math | [✔️](./Math-Geometry/3870-count-commas-in-range/) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3875-construct-uniform-parity-array-i/) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | 🟡 Medium | Array, Prefix Sum | [✔️](./Arrays-Hashing/3904-smallest-stable-index-ii/) |
-| 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | 🟢 Easy | — | [✔️](./Other/4030-check-ascii-palindromic/) |
 | 4031 | [Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/) | 🟡 Medium | — | [✔️](./Other/4031-find-all-numbers-disappeared-in-an-array-ii/) |
 | 4032 | [Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) | 🟡 Medium | — | [✔️](./Other/4032-longest-subarray-with-at-most-k-distinct-prime-factors/) |
 | 4034 | [Minimum Bishop Moves to Reach Target](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/) | 🟡 Medium | — | [✔️](./Other/4034-minimum-bishop-moves-to-reach-target/) |
