@@ -153,12 +153,12 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0062-unique-paths/) |
+| 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0063-unique-paths-ii/) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | Math, Dynamic Programming | [✔️](./Math-Geometry/0070-climbing-stairs/) |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0198-house-robber/) |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0213-house-robber-ii/) |
 | 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0721-accounts-merge/) |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | 🔴 Hard | Array, Depth First Search | [✔️](./Arrays-Hashing/0827-making-a-large-island/) |
-| 0947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | 🟡 Medium | Hash Table, Depth First Search | [✔️](./Arrays-Hashing/0947-most-stones-removed-with-same-row-or-column/) |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | 🟡 Medium | Linked List | [✔️](./Linked-List/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2091-removing-minimum-and-maximum-from-array/) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | String, Sliding Window | [✔️](./Sliding-Window/2904-shortest-and-lexicographically-smallest-beautiful-string/) |
