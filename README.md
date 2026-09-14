@@ -58,9 +58,9 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 8 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
-| 03 | [Sliding Window](./Sliding-Window/) | 1 |
+| 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 1 |
@@ -154,6 +154,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 |---|---------|------------|--------|----------|
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0062-unique-paths/) |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0063-unique-paths-ii/) |
+| 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0064-minimum-path-sum/) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | Math, Dynamic Programming | [✔️](./Math-Geometry/0070-climbing-stairs/) |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0198-house-robber/) |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0213-house-robber-ii/) |
@@ -161,7 +162,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | 🔴 Hard | Array, Depth First Search | [✔️](./Arrays-Hashing/0827-making-a-large-island/) |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | 🟡 Medium | Linked List | [✔️](./Linked-List/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2091-removing-minimum-and-maximum-from-array/) |
-| 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | String, Sliding Window | [✔️](./Sliding-Window/2904-shortest-and-lexicographically-smallest-beautiful-string/) |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | Math | [✔️](./Math-Geometry/3870-count-commas-in-range/) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3875-construct-uniform-parity-array-i/) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | 🟡 Medium | Array, Prefix Sum | [✔️](./Arrays-Hashing/3904-smallest-stable-index-ii/) |
