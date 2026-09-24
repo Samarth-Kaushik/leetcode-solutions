@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 13 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 14 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 3 |
+| 15 | [Math Geometry](./Math-Geometry/) | 2 |
 | 16 | [Other](./Other/) | 1 |
 <!-- TOPICS_END -->
 
@@ -167,9 +167,9 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | 🔴 Hard | Dynamic Programming, Memoization | [✔️](./Dynamic-Programming/1553-minimum-number-of-days-to-eat-n-oranges/) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1658-minimum-operations-to-reduce-x-to-zero/) |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1679-max-number-of-k-sum-pairs/) |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2461-maximum-sum-of-distinct-subarrays-with-length-k/) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | String, Simulation | [✔️](./Other/3498-reverse-degree-of-a-string/) |
-| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | Math | [✔️](./Math-Geometry/3870-count-commas-in-range/) |
-| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | 🟡 Medium | Array, Prefix Sum | [✔️](./Arrays-Hashing/3904-smallest-stable-index-ii/) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3550-smallest-index-with-digit-sum-equal-to-index/) |
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/4048-count-values-with-equally-spaced-occurrences-i/) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/4049-count-values-with-equally-spaced-occurrences-ii/) |
 <!-- INDEX_END -->
