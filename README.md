@@ -156,7 +156,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0063-unique-paths-ii/) |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0064-minimum-path-sum/) |
 | 0120 | [Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0120-triangle/) |
-| 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0198-house-robber/) |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0213-house-robber-ii/) |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | Linked List | [✔️](./Linked-List/0237-delete-node-in-a-linked-list/) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/0242-valid-anagram/) |
@@ -164,6 +163,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0543-diameter-of-binary-tree/) |
 | 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0931-minimum-falling-path-sum/) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Math, Geometry | [✔️](./Math-Geometry/1401-circle-and-rectangle-overlapping/) |
+| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | 🟡 Medium | Array, Two Pointers | [✔️](./Arrays-Hashing/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | 🔴 Hard | Dynamic Programming, Memoization | [✔️](./Dynamic-Programming/1553-minimum-number-of-days-to-eat-n-oranges/) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1658-minimum-operations-to-reduce-x-to-zero/) |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1679-max-number-of-k-sum-pairs/) |
