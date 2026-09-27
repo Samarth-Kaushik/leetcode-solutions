@@ -58,13 +58,13 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 13 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 0 |
+| 04 | [Stack](./Stack/) | 1 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
-| 06 | [Linked List](./Linked-List/) | 1 |
-| 07 | [Trees](./Trees/) | 1 |
+| 06 | [Linked List](./Linked-List/) | 0 |
+| 07 | [Trees](./Trees/) | 0 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
@@ -72,8 +72,8 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 1 |
-| 16 | [Other](./Other/) | 4 |
+| 15 | [Math Geometry](./Math-Geometry/) | 0 |
+| 16 | [Other](./Other/) | 6 |
 <!-- TOPICS_END -->
 
 ---
@@ -152,18 +152,15 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | Linked List | [✔️](./Linked-List/0237-delete-node-in-a-linked-list/) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/0242-valid-anagram/) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0322-coin-change/) |
 | 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0416-partition-equal-subset-sum/) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0455-assign-cookies/) |
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0494-target-sum/) |
-| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0543-diameter-of-binary-tree/) |
-| 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0931-minimum-falling-path-sum/) |
-| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | Math, Geometry | [✔️](./Math-Geometry/1401-circle-and-rectangle-overlapping/) |
+| 0518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0518-coin-change-ii/) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | String, Stack | [✔️](./Stack/1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | 🟡 Medium | Array, Two Pointers | [✔️](./Arrays-Hashing/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1658-minimum-operations-to-reduce-x-to-zero/) |
-| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1679-max-number-of-k-sum-pairs/) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1807-evaluate-the-bracket-pairs-of-a-string/) |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | 🟡 Medium | Array, Two Pointers | [✔️](./Arrays-Hashing/2410-maximum-matching-of-players-with-trainers/) |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2461-maximum-sum-of-distinct-subarrays-with-length-k/) |
@@ -172,6 +169,8 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | 🟢 Easy | — | [✔️](./Other/4061-minimum-queen-moves-to-reach-target/) |
 | 4062 | [Transform Array Using Pair Operations](https://leetcode.com/problems/transform-array-using-pair-operations/) | 🟡 Medium | — | [✔️](./Other/4062-transform-array-using-pair-operations/) |
 | 4063 | [Longest Subarray Divisible by K with At Most One Negation I](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | 🟡 Medium | — | [✔️](./Other/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) |
+| 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | 🟢 Easy | — | [✔️](./Other/4065-rearrange-array-by-removing-distinct-values/) |
+| 4066 | [Maximum Equal Adjacent Pairs After at Most One Replacement](https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | 🟡 Medium | — | [✔️](./Other/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) |
 <!-- INDEX_END -->
 
 ---
