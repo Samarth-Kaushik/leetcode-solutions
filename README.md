@@ -58,10 +58,10 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 1 |
+| 04 | [Stack](./Stack/) | 2 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 0 |
 | 07 | [Trees](./Trees/) | 0 |
@@ -69,11 +69,11 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
 | 11 | [Graphs](./Graphs/) | 0 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 2 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
-| 16 | [Other](./Other/) | 6 |
+| 16 | [Other](./Other/) | 5 |
 <!-- TOPICS_END -->
 
 ---
@@ -152,19 +152,18 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Hash Table, String | [✔️](./Arrays-Hashing/0242-valid-anagram/) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0322-coin-change/) |
-| 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0416-partition-equal-subset-sum/) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0455-assign-cookies/) |
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0494-target-sum/) |
+| 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0516-longest-palindromic-subsequence/) |
 | 0518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0518-coin-change-ii/) |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/1143-longest-common-subsequence/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | String, Stack | [✔️](./Stack/1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | 🟡 Medium | Array, Two Pointers | [✔️](./Arrays-Hashing/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1658-minimum-operations-to-reduce-x-to-zero/) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/1614-maximum-nesting-depth-of-the-parentheses/) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1807-evaluate-the-bracket-pairs-of-a-string/) |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | 🟡 Medium | Array, Two Pointers | [✔️](./Arrays-Hashing/2410-maximum-matching-of-players-with-trainers/) |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2461-maximum-sum-of-distinct-subarrays-with-length-k/) |
-| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | String, Simulation | [✔️](./Other/3498-reverse-degree-of-a-string/) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3550-smallest-index-with-digit-sum-equal-to-index/) |
 | 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | 🟢 Easy | — | [✔️](./Other/4061-minimum-queen-moves-to-reach-target/) |
 | 4062 | [Transform Array Using Pair Operations](https://leetcode.com/problems/transform-array-using-pair-operations/) | 🟡 Medium | — | [✔️](./Other/4062-transform-array-using-pair-operations/) |
