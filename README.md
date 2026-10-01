@@ -58,10 +58,10 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 11 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 2 |
+| 04 | [Stack](./Stack/) | 3 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 0 |
 | 07 | [Trees](./Trees/) | 1 |
@@ -152,6 +152,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/0020-valid-parentheses/) |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0102-binary-tree-level-order-traversal/) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0322-coin-change/) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0455-assign-cookies/) |
@@ -161,7 +162,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/1143-longest-common-subsequence/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | String, Stack | [✔️](./Stack/1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/1614-maximum-nesting-depth-of-the-parentheses/) |
-| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1807-evaluate-the-bracket-pairs-of-a-string/) |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/2267-check-if-there-is-a-valid-parentheses-string-path/) |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | 🟡 Medium | Array, Two Pointers | [✔️](./Arrays-Hashing/2410-maximum-matching-of-players-with-trainers/) |
 | 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/4061-minimum-queen-moves-to-reach-target/) |
