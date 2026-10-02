@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 11 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 10 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 3 |
@@ -69,7 +69,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
 | 11 | [Graphs](./Graphs/) | 0 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 2 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 3 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
@@ -153,9 +153,9 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/0020-valid-parentheses/) |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0022-generate-parentheses/) |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0102-binary-tree-level-order-traversal/) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0322-coin-change/) |
-| 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | 🟢 Easy | Array, Two Pointers | [✔️](./Arrays-Hashing/0455-assign-cookies/) |
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0494-target-sum/) |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0516-longest-palindromic-subsequence/) |
 | 0518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0518-coin-change-ii/) |
