@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 7 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 3 |
@@ -69,11 +69,11 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
 | 11 | [Graphs](./Graphs/) | 0 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 4 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 5 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
-| 16 | [Other](./Other/) | 0 |
+| 16 | [Other](./Other/) | 1 |
 <!-- TOPICS_END -->
 
 ---
@@ -160,15 +160,15 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0494-target-sum/) |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0516-longest-palindromic-subsequence/) |
 | 0518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0518-coin-change-ii/) |
+| 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0678-valid-parenthesis-string/) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/1143-longest-common-subsequence/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | String, Stack | [✔️](./Stack/1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/1614-maximum-nesting-depth-of-the-parentheses/) |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/2267-check-if-there-is-a-valid-parentheses-string-path/) |
-| 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/4061-minimum-queen-moves-to-reach-target/) |
-| 4062 | [Transform Array Using Pair Operations](https://leetcode.com/problems/transform-array-using-pair-operations/) | 🟡 Medium | Array, Brainteaser | [✔️](./Arrays-Hashing/4062-transform-array-using-pair-operations/) |
 | 4063 | [Longest Subarray Divisible by K with At Most One Negation I](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) |
 | 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/4065-rearrange-array-by-removing-distinct-values/) |
 | 4066 | [Maximum Equal Adjacent Pairs After at Most One Replacement](https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) |
+| 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | 🟢 Easy | — | [✔️](./Other/4070-minimum-rotations-to-dial-a-number-i/) |
 <!-- INDEX_END -->
 
 ---
