@@ -58,10 +58,10 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 7 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 6 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 3 |
+| 04 | [Stack](./Stack/) | 4 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 0 |
 | 07 | [Trees](./Trees/) | 1 |
@@ -161,11 +161,11 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0516-longest-palindromic-subsequence/) |
 | 0518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0518-coin-change-ii/) |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0678-valid-parenthesis-string/) |
+| 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | String, Stack | [✔️](./Stack/0856-score-of-parentheses/) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/1143-longest-common-subsequence/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | String, Stack | [✔️](./Stack/1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/1614-maximum-nesting-depth-of-the-parentheses/) |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/2267-check-if-there-is-a-valid-parentheses-string-path/) |
-| 4063 | [Longest Subarray Divisible by K with At Most One Negation I](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) |
 | 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/4065-rearrange-array-by-removing-distinct-values/) |
 | 4066 | [Maximum Equal Adjacent Pairs After at Most One Replacement](https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) |
 | 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | 🟢 Easy | — | [✔️](./Other/4070-minimum-rotations-to-dial-a-number-i/) |
