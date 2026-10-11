@@ -61,7 +61,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 01 | [Arrays Hashing](./Arrays-Hashing/) | 3 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 6 |
+| 04 | [Stack](./Stack/) | 5 |
 | 05 | [Binary Search](./Binary-Search/) | 1 |
 | 06 | [Linked List](./Linked-List/) | 0 |
 | 07 | [Trees](./Trees/) | 1 |
@@ -69,7 +69,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 1 |
 | 11 | [Graphs](./Graphs/) | 0 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 5 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 7 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 0 |
@@ -155,11 +155,12 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/0020-valid-parentheses/) |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0022-generate-parentheses/) |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | String, Dynamic Programming | [✔️](./Dynamic-Programming/0032-longest-valid-parentheses/) |
+| 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0072-edit-distance/) |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0102-binary-tree-level-order-traversal/) |
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 🟡 Medium | Binary Search, Bit Manipulation | [✔️](./Binary-Search/0222-count-complete-tree-nodes/) |
 | 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 🔴 Hard | String, Backtracking | [✔️](./Backtracking/0301-remove-invalid-parentheses/) |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0516-longest-palindromic-subsequence/) |
-| 0518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0518-coin-change-ii/) |
+| 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0583-delete-operation-for-two-strings/) |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0678-valid-parenthesis-string/) |
 | 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | String, Stack | [✔️](./Stack/0856-score-of-parentheses/) |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | 🟡 Medium | Hash Table, Tree | [✔️](./Arrays-Hashing/0863-all-nodes-distance-k-in-binary-tree/) |
@@ -167,8 +168,8 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/1021-remove-outermost-parentheses/) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/1143-longest-common-subsequence/) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | String, Stack | [✔️](./Stack/1541-minimum-insertions-to-balance-a-parentheses-string/) |
-| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/1614-maximum-nesting-depth-of-the-parentheses/) |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/2267-check-if-there-is-a-valid-parentheses-string-path/) |
+| 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | 🟢 Easy | Array, Enumeration | [✔️](./Arrays-Hashing/2778-sum-of-squares-of-special-elements/) |
 | 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | 🟢 Easy | — | [✔️](./Other/4070-minimum-rotations-to-dial-a-number-i/) |
 <!-- INDEX_END -->
 
