@@ -61,7 +61,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 01 | [Arrays Hashing](./Arrays-Hashing/) | 3 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 5 |
+| 04 | [Stack](./Stack/) | 4 |
 | 05 | [Binary Search](./Binary-Search/) | 1 |
 | 06 | [Linked List](./Linked-List/) | 0 |
 | 07 | [Trees](./Trees/) | 0 |
@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 6 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 0 |
+| 15 | [Math Geometry](./Math-Geometry/) | 1 |
 | 16 | [Other](./Other/) | 4 |
 <!-- TOPICS_END -->
 
@@ -152,7 +152,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/0020-valid-parentheses/) |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0022-generate-parentheses/) |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | String, Dynamic Programming | [✔️](./Dynamic-Programming/0032-longest-valid-parentheses/) |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0072-edit-distance/) |
@@ -168,6 +167,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | String, Stack | [✔️](./Stack/1541-minimum-insertions-to-balance-a-parentheses-string/) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | 🟢 Easy | — | [✔️](./Other/2620-counter/) |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | 🟢 Easy | Array, Enumeration | [✔️](./Arrays-Hashing/2778-sum-of-squares-of-special-elements/) |
+| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math, Greedy | [✔️](./Math-Geometry/3723-maximize-sum-of-squares-of-digits/) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/3727-maximum-alternating-sum-of-squares/) |
 | 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | 🟢 Easy | — | [✔️](./Other/4070-minimum-rotations-to-dial-a-number-i/) |
 | 4074 | [Maximum Product Pair With Target Sum](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | 🟢 Easy | — | [✔️](./Other/4074-maximum-product-pair-with-target-sum/) |
