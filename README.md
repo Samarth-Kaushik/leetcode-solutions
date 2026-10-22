@@ -58,22 +58,22 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 7 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 12 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
-| 04 | [Stack](./Stack/) | 2 |
+| 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 0 |
 | 07 | [Trees](./Trees/) | 0 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
-| 10 | [Backtracking](./Backtracking/) | 1 |
+| 10 | [Backtracking](./Backtracking/) | 0 |
 | 11 | [Graphs](./Graphs/) | 0 |
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 3 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 1 |
-| 16 | [Other](./Other/) | 4 |
+| 16 | [Other](./Other/) | 2 |
 <!-- TOPICS_END -->
 
 ---
@@ -155,12 +155,14 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0072-edit-distance/) |
 | 0115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | 🔴 Hard | String, Dynamic Programming | [✔️](./Dynamic-Programming/0115-distinct-subsequences/) |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0122-best-time-to-buy-and-sell-stock-ii/) |
-| 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 🔴 Hard | String, Backtracking | [✔️](./Backtracking/0301-remove-invalid-parentheses/) |
+| 0123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0123-best-time-to-buy-and-sell-stock-iii/) |
+| 0188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0188-best-time-to-buy-and-sell-stock-iv/) |
+| 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0300-longest-increasing-subsequence/) |
+| 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0309-best-time-to-buy-and-sell-stock-with-cooldown/) |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0583-delete-operation-for-two-strings/) |
+| 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0846-hand-of-straights/) |
-| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | String, Stack | [✔️](./Stack/1021-remove-outermost-parentheses/) |
 | 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1296-divide-array-in-sets-of-k-consecutive-numbers/) |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | String, Stack | [✔️](./Stack/1541-minimum-insertions-to-balance-a-parentheses-string/) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | 🟢 Easy | — | [✔️](./Other/2620-counter/) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | 🟢 Easy | — | [✔️](./Other/2621-sleep/) |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | 🟢 Easy | Array, Enumeration | [✔️](./Arrays-Hashing/2778-sum-of-squares-of-special-elements/) |
@@ -168,8 +170,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math, Greedy | [✔️](./Math-Geometry/3723-maximize-sum-of-squares-of-digits/) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/3727-maximum-alternating-sum-of-squares/) |
-| 4074 | [Maximum Product Pair With Target Sum](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | 🟢 Easy | — | [✔️](./Other/4074-maximum-product-pair-with-target-sum/) |
-| 4075 | [Longest Resilient Subarray I](https://leetcode.com/problems/longest-resilient-subarray-i/) | 🟡 Medium | — | [✔️](./Other/4075-longest-resilient-subarray-i/) |
 <!-- INDEX_END -->
 
 ---
