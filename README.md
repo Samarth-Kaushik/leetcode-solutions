@@ -159,13 +159,13 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0188-best-time-to-buy-and-sell-stock-iv/) |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0300-longest-increasing-subsequence/) |
 | 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0309-best-time-to-buy-and-sell-stock-with-cooldown/) |
+| 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0368-largest-divisible-subset/) |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | 🟡 Medium | String, Dynamic Programming | [✔️](./Dynamic-Programming/0583-delete-operation-for-two-strings/) |
 | 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0846-hand-of-straights/) |
 | 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1296-divide-array-in-sets-of-k-consecutive-numbers/) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | 🟢 Easy | — | [✔️](./Other/2620-counter/) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | 🟢 Easy | — | [✔️](./Other/2621-sleep/) |
-| 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | 🟢 Easy | Array, Enumeration | [✔️](./Arrays-Hashing/2778-sum-of-squares-of-special-elements/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math, Greedy | [✔️](./Math-Geometry/3723-maximize-sum-of-squares-of-digits/) |
