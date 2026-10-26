@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 14 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 15 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 2 |
-| 16 | [Other](./Other/) | 2 |
+| 16 | [Other](./Other/) | 1 |
 <!-- TOPICS_END -->
 
 ---
@@ -163,10 +163,10 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1254-number-of-closed-islands/) |
 | 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1296-divide-array-in-sets-of-k-consecutive-numbers/) |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | Math, String | [✔️](./Math-Geometry/2409-count-days-spent-together/) |
-| 2620 | [Counter](https://leetcode.com/problems/counter/) | 🟢 Easy | — | [✔️](./Other/2620-counter/) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | 🟢 Easy | — | [✔️](./Other/2621-sleep/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | 🟢 Easy | Array, Hash Table | [✔️](./Arrays-Hashing/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/3551-minimum-swaps-to-sort-by-digit-sum/) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/3619-count-islands-with-total-value-divisible-by-k/) |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | 🟡 Medium | Array, Bit Manipulation | [✔️](./Arrays-Hashing/3644-maximum-k-to-sort-a-permutation/) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math, Greedy | [✔️](./Math-Geometry/3723-maximize-sum-of-squares-of-digits/) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/3727-maximum-alternating-sum-of-squares/) |
