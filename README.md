@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 14 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 15 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 2 |
+| 15 | [Math Geometry](./Math-Geometry/) | 1 |
 | 16 | [Other](./Other/) | 2 |
 <!-- TOPICS_END -->
 
@@ -160,6 +160,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0368-largest-divisible-subset/) |
 | 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/0846-hand-of-straights/) |
+| 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1048-longest-string-chain/) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1254-number-of-closed-islands/) |
 | 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1296-divide-array-in-sets-of-k-consecutive-numbers/) |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | Math, String | [✔️](./Math-Geometry/2409-count-days-spent-together/) |
@@ -168,7 +169,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/3619-count-islands-with-total-value-divisible-by-k/) |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | 🟡 Medium | Array, Bit Manipulation | [✔️](./Arrays-Hashing/3644-maximum-k-to-sort-a-permutation/) |
-| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math, Greedy | [✔️](./Math-Geometry/3723-maximize-sum-of-squares-of-digits/) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | — | [✔️](./Other/3963-create-grid-with-exactly-one-path/) |
 <!-- INDEX_END -->
 
