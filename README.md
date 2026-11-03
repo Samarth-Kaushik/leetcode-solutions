@@ -152,17 +152,17 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
+| 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0045-jump-game-ii/) |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0055-jump-game/) |
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | 🟡 Medium | Dynamic Programming, Backtracking | [✔️](./Dynamic-Programming/0095-unique-binary-search-trees-ii/) |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0096-unique-binary-search-trees/) |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0107-binary-tree-level-order-traversal-ii/) |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 Easy | Array, Divide And Conquer | [✔️](./Arrays-Hashing/0108-convert-sorted-array-to-binary-search-tree/) |
 | 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | Linked List, Divide And Conquer | [✔️](./Linked-List/0109-convert-sorted-list-to-binary-search-tree/) |
-| 0123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0123-best-time-to-buy-and-sell-stock-iii/) |
-| 0188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0188-best-time-to-buy-and-sell-stock-iv/) |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | Array, Binary Search | [✔️](./Arrays-Hashing/0300-longest-increasing-subsequence/) |
-| 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0309-best-time-to-buy-and-sell-stock-with-cooldown/) |
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0368-largest-divisible-subset/) |
 | 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0453-minimum-moves-to-equal-array-elements/) |
+| 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0462-minimum-moves-to-equal-array-elements-ii/) |
 | 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/1048-longest-string-chain/) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1254-number-of-closed-islands/) |
