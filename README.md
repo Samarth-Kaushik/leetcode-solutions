@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 8 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -68,7 +68,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
-| 11 | [Graphs](./Graphs/) | 1 |
+| 11 | [Graphs](./Graphs/) | 0 |
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
@@ -168,10 +168,10 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0226-invert-binary-tree/) |
 | 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0453-minimum-moves-to-equal-array-elements/) |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0462-minimum-moves-to-equal-array-elements-ii/) |
+| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1267-count-servers-that-communicate/) |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2747-count-zero-request-servers/) |
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/3665-twisted-mirror-path-count/) |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3736-minimum-moves-to-equal-array-elements-iii/) |
-| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | 🟡 Medium | String, Graph | [✔️](./Graphs/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) |
 <!-- INDEX_END -->
 
 ---
