@@ -155,7 +155,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0045-jump-game-ii/) |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0055-jump-game/) |
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | 🟡 Medium | Dynamic Programming, Backtracking | [✔️](./Dynamic-Programming/0095-unique-binary-search-trees-ii/) |
-| 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0096-unique-binary-search-trees/) |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0099-recover-binary-search-tree/) |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0107-binary-tree-level-order-traversal-ii/) |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 Easy | Array, Divide And Conquer | [✔️](./Arrays-Hashing/0108-convert-sorted-array-to-binary-search-tree/) |
@@ -172,6 +171,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2747-count-zero-request-servers/) |
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/3693-climbing-stairs-ii/) |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3736-minimum-moves-to-equal-array-elements-iii/) |
+| 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | 🟡 Medium | Math, Greedy | [✔️](./Math-Geometry/3789-minimum-cost-to-acquire-required-items/) |
 <!-- INDEX_END -->
 
 ---
