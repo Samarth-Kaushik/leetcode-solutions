@@ -58,21 +58,21 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 10 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 3 |
-| 07 | [Trees](./Trees/) | 6 |
+| 07 | [Trees](./Trees/) | 5 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
 | 11 | [Graphs](./Graphs/) | 0 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 1 |
+| 15 | [Math Geometry](./Math-Geometry/) | 2 |
 | 16 | [Other](./Other/) | 0 |
 <!-- TOPICS_END -->
 
@@ -154,17 +154,17 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 |---|---------|------------|--------|----------|
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0045-jump-game-ii/) |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0055-jump-game/) |
-| 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | 🟡 Medium | Dynamic Programming, Backtracking | [✔️](./Dynamic-Programming/0095-unique-binary-search-trees-ii/) |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0099-recover-binary-search-tree/) |
-| 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | Tree, Breadth First Search | [✔️](./Trees/0107-binary-tree-level-order-traversal-ii/) |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 Easy | Array, Divide And Conquer | [✔️](./Arrays-Hashing/0108-convert-sorted-array-to-binary-search-tree/) |
 | 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | Linked List, Divide And Conquer | [✔️](./Linked-List/0109-convert-sorted-list-to-binary-search-tree/) |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0111-minimum-depth-of-binary-tree/) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0112-path-sum/) |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0116-populating-next-right-pointers-in-each-node/) |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0117-populating-next-right-pointers-in-each-node-ii/) |
+| 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | Hash Table, String | [✔️](./Arrays-Hashing/0127-word-ladder/) |
 | 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0129-sum-root-to-leaf-numbers/) |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0226-invert-binary-tree/) |
+| 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0279-perfect-squares/) |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0462-minimum-moves-to-equal-array-elements-ii/) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1267-count-servers-that-communicate/) |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2747-count-zero-request-servers/) |
