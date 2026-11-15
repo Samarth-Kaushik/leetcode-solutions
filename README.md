@@ -58,12 +58,12 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 10 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 11 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
-| 06 | [Linked List](./Linked-List/) | 3 |
+| 06 | [Linked List](./Linked-List/) | 2 |
 | 07 | [Trees](./Trees/) | 5 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
@@ -155,7 +155,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0045-jump-game-ii/) |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/0055-jump-game/) |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0099-recover-binary-search-tree/) |
-| 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | Linked List, Divide And Conquer | [✔️](./Linked-List/0109-convert-sorted-list-to-binary-search-tree/) |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0111-minimum-depth-of-binary-tree/) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0112-path-sum/) |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0116-populating-next-right-pointers-in-each-node/) |
@@ -166,6 +165,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0279-perfect-squares/) |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0462-minimum-moves-to-equal-array-elements-ii/) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1267-count-servers-that-communicate/) |
+| 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/1524-number-of-sub-arrays-with-odd-sum/) |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2747-count-zero-request-servers/) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | 🟢 Easy | Array | [✔️](./Arrays-Hashing/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | 🟢 Easy | Array, Sliding Window | [✔️](./Arrays-Hashing/3364-minimum-positive-sum-subarray/) |
