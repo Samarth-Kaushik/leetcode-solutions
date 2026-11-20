@@ -64,7 +64,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 2 |
-| 07 | [Trees](./Trees/) | 5 |
+| 07 | [Trees](./Trees/) | 4 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
@@ -73,7 +73,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 2 |
-| 16 | [Other](./Other/) | 2 |
+| 16 | [Other](./Other/) | 3 |
 <!-- TOPICS_END -->
 
 ---
@@ -153,7 +153,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0099-recover-binary-search-tree/) |
-| 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0111-minimum-depth-of-binary-tree/) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0112-path-sum/) |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0116-populating-next-right-pointers-in-each-node/) |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0117-populating-next-right-pointers-in-each-node-ii/) |
@@ -165,12 +164,13 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1267-count-servers-that-communicate/) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/1524-number-of-sub-arrays-with-odd-sum/) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | 🟢 Easy | String, Simulation | [✔️](./Other/2243-calculate-digit-sum-of-a-string/) |
-| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | Array, Hash Table | [✔️](./Arrays-Hashing/2747-count-zero-request-servers/) |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2567-minimum-score-by-changing-two-elements/) |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | 🟡 Medium | String | [✔️](./Other/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | 🟢 Easy | Array | [✔️](./Arrays-Hashing/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | 🟢 Easy | Array, Sliding Window | [✔️](./Arrays-Hashing/3364-minimum-positive-sum-subarray/) |
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | 🟡 Medium | Array, Dynamic Programming | [✔️](./Arrays-Hashing/3693-climbing-stairs-ii/) |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | 🟡 Medium | Math, Greedy | [✔️](./Math-Geometry/3789-minimum-cost-to-acquire-required-items/) |
+| 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | 🟢 Easy | — | [✔️](./Other/4111-count-consistent-subarrays-i/) |
 <!-- INDEX_END -->
 
 ---
