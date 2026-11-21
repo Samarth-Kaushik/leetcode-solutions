@@ -64,7 +64,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
 | 06 | [Linked List](./Linked-List/) | 2 |
-| 07 | [Trees](./Trees/) | 4 |
+| 07 | [Trees](./Trees/) | 3 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
 | 10 | [Backtracking](./Backtracking/) | 0 |
@@ -153,7 +153,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0099-recover-binary-search-tree/) |
-| 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0112-path-sum/) |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0116-populating-next-right-pointers-in-each-node/) |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0117-populating-next-right-pointers-in-each-node-ii/) |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | Hash Table, String | [✔️](./Arrays-Hashing/0127-word-ladder/) |
