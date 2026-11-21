@@ -63,13 +63,13 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
 | 05 | [Binary Search](./Binary-Search/) | 0 |
-| 06 | [Linked List](./Linked-List/) | 2 |
+| 06 | [Linked List](./Linked-List/) | 0 |
 | 07 | [Trees](./Trees/) | 3 |
 | 08 | [Tries](./Tries/) | 0 |
 | 09 | [Heap](./Heap/) | 0 |
-| 10 | [Backtracking](./Backtracking/) | 0 |
+| 10 | [Backtracking](./Backtracking/) | 1 |
 | 11 | [Graphs](./Graphs/) | 0 |
-| 12 | [Dynamic Programming](./Dynamic-Programming/) | 0 |
+| 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
 | 15 | [Math Geometry](./Math-Geometry/) | 2 |
@@ -152,14 +152,14 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 <!-- INDEX_START -->
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
-| 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0099-recover-binary-search-tree/) |
-| 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0116-populating-next-right-pointers-in-each-node/) |
-| 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | 🟡 Medium | Linked List, Tree | [✔️](./Linked-List/0117-populating-next-right-pointers-in-each-node-ii/) |
+| 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | Backtracking, Tree | [✔️](./Backtracking/0113-path-sum-ii/) |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | Hash Table, String | [✔️](./Arrays-Hashing/0127-word-ladder/) |
-| 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0129-sum-root-to-leaf-numbers/) |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | Tree, Depth First Search | [✔️](./Trees/0226-invert-binary-tree/) |
 | 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0279-perfect-squares/) |
+| 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | String, Tree | [✔️](./Trees/0297-serialize-and-deserialize-binary-tree/) |
+| 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | 🟡 Medium | Dynamic Programming, Tree | [✔️](./Dynamic-Programming/0337-house-robber-iii/) |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | 🟢 Easy | Array, Sorting | [✔️](./Arrays-Hashing/0506-relative-ranks/) |
+| 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | 🟡 Medium | Tree, Depth First Search | [✔️](./Trees/0538-convert-bst-to-greater-tree/) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/1267-count-servers-that-communicate/) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/1524-number-of-sub-arrays-with-odd-sum/) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | 🟢 Easy | String, Simulation | [✔️](./Other/2243-calculate-digit-sum-of-a-string/) |
