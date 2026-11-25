@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 8 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 1 |
+| 15 | [Math Geometry](./Math-Geometry/) | 0 |
 | 16 | [Other](./Other/) | 5 |
 <!-- TOPICS_END -->
 
@@ -156,7 +156,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | Hash Table, String | [✔️](./Arrays-Hashing/0127-word-ladder/) |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0150-evaluate-reverse-polish-notation/) |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/0200-number-of-islands/) |
-| 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 🟡 Medium | Math, Dynamic Programming | [✔️](./Math-Geometry/0279-perfect-squares/) |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | String, Tree | [✔️](./Trees/0297-serialize-and-deserialize-binary-tree/) |
 | 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | 🟡 Medium | Dynamic Programming, Tree | [✔️](./Dynamic-Programming/0337-house-robber-iii/) |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | 🟢 Easy | Array, Sorting | [✔️](./Arrays-Hashing/0506-relative-ranks/) |
@@ -168,6 +167,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2567-minimum-score-by-changing-two-elements/) |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | 🟡 Medium | String | [✔️](./Other/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | 🟢 Easy | Array, Sliding Window | [✔️](./Arrays-Hashing/3364-minimum-positive-sum-subarray/) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3411-maximum-subarray-with-equal-products/) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | 🟢 Easy | — | [✔️](./Other/4111-count-consistent-subarrays-i/) |
 | 4120 | [Count Dominant Elements](https://leetcode.com/problems/count-dominant-elements/) | 🟢 Easy | — | [✔️](./Other/4120-count-dominant-elements/) |
 <!-- INDEX_END -->
