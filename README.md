@@ -58,7 +58,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 <!-- TOPICS_START -->
 | # | Topic | Problems Solved |
 |---|-------|-----------------|
-| 01 | [Arrays Hashing](./Arrays-Hashing/) | 9 |
+| 01 | [Arrays Hashing](./Arrays-Hashing/) | 8 |
 | 02 | [Two Pointers](./Two-Pointers/) | 0 |
 | 03 | [Sliding Window](./Sliding-Window/) | 0 |
 | 04 | [Stack](./Stack/) | 0 |
@@ -72,7 +72,7 @@ This repository contains my personal solutions to LeetCode problems, organized b
 | 12 | [Dynamic Programming](./Dynamic-Programming/) | 1 |
 | 13 | [Greedy](./Greedy/) | 0 |
 | 14 | [Bit Manipulation](./Bit-Manipulation/) | 0 |
-| 15 | [Math Geometry](./Math-Geometry/) | 0 |
+| 15 | [Math Geometry](./Math-Geometry/) | 1 |
 | 16 | [Other](./Other/) | 5 |
 <!-- TOPICS_END -->
 
@@ -153,7 +153,6 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | Backtracking, Tree | [✔️](./Backtracking/0113-path-sum-ii/) |
-| 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | Hash Table, String | [✔️](./Arrays-Hashing/0127-word-ladder/) |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | Array, Math | [✔️](./Arrays-Hashing/0150-evaluate-reverse-polish-notation/) |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | Array, Depth First Search | [✔️](./Arrays-Hashing/0200-number-of-islands/) |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | String, Tree | [✔️](./Trees/0297-serialize-and-deserialize-binary-tree/) |
@@ -166,6 +165,7 @@ LEETCODE_USERNAME=your_username python scripts/update_stats.py
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | 🟢 Easy | String, Simulation | [✔️](./Other/2243-calculate-digit-sum-of-a-string/) |
 | 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | 🟡 Medium | Array, Greedy | [✔️](./Arrays-Hashing/2567-minimum-score-by-changing-two-elements/) |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | 🟡 Medium | String | [✔️](./Other/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | 🟢 Easy | Math, Simulation | [✔️](./Math-Geometry/3360-stone-removal-game/) |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | 🟢 Easy | Array, Sliding Window | [✔️](./Arrays-Hashing/3364-minimum-positive-sum-subarray/) |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | 🟢 Easy | Array, Math | [✔️](./Arrays-Hashing/3411-maximum-subarray-with-equal-products/) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | 🟢 Easy | — | [✔️](./Other/4111-count-consistent-subarrays-i/) |
